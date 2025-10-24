@@ -417,9 +417,9 @@ With that, there is nothing more to be explained. Once again this skips many tho
 
 # Links
 
-Github：
+Github：https://github.com/Pudding-Evan/Portal
 
-Epic：
+Youtube：https://www.youtube.com/watch?v=hTbaRXJlLrI
 
 # References
 

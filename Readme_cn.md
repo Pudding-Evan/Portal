@@ -416,9 +416,9 @@ void UPortalLinkPostCrossingState::OnStateExited_Implementation(const FGameplayT
 
 # 链接
 
-Github：
+Github：https://github.com/Pudding-Evan/Portal
 
-Epic：
+Youtube：https://www.youtube.com/watch?v=hTbaRXJlLrI
 
 # 参考
 
