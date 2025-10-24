@@ -1,0 +1,18 @@
+#pragma once
+
+#include "CoreMinimal.h"
+#include "NativeGameplayTags.h"
+
+namespace GameplayTags
+{
+	namespace Portal
+	{
+		PORTAL_API UE_DECLARE_GAMEPLAY_TAG_EXTERN(UnActive)
+		PORTAL_API UE_DECLARE_GAMEPLAY_TAG_EXTERN(Active)
+		PORTAL_API UE_DECLARE_GAMEPLAY_TAG_EXTERN(LinkActive)
+		PORTAL_API UE_DECLARE_GAMEPLAY_TAG_EXTERN(Crossing)
+		PORTAL_API UE_DECLARE_GAMEPLAY_TAG_EXTERN(LinkCrossing)
+		PORTAL_API UE_DECLARE_GAMEPLAY_TAG_EXTERN(PostCrossing)
+		PORTAL_API UE_DECLARE_GAMEPLAY_TAG_EXTERN(LinkPostCrossing)
+	}
+}
